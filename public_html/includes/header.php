@@ -8,14 +8,18 @@
       </div>
 
       <nav id="navbar" class="navbar">
+          <?php
+          // Assume you have a parameter named 'page' in the URL
+          $activePage = isset($_GET['page']) ? $_GET['page'] : 'home';
+          ?>
         <ul>
-          <li><a href="?page=home">Home</a></li>
-          <li><a href="?page=about">About</a></li>
-          <li><a href="?page=services">Services</a></li>
-          <li><a href="?page=products">Products</a></li>
-          <li><a href="?page=team">Team</a></li>
-          <li><a href="?page=blog">Blog</a></li>
-          <li><a href="?page=contact">Contact Us</a></li>
+          <li><a class=" <?= ($activePage == 'home') ? 'active':''; ?> " href="?page=home">Home</a></li>
+          <li><a class=" <?= ($activePage == 'about') ? 'active':''; ?> " href="?page=about">About</a></li>
+          <li><a class=" <?= ($activePage == 'services') ? 'active':''; ?> " href="?page=services">Services</a></li>
+          <li><a class=" <?= ($activePage == 'products') ? 'active':''; ?> " href="?page=products">Products</a></li>
+          <li><a class=" <?= ($activePage == 'team') ? 'active':''; ?> " href="?page=team">Team</a></li>
+          <li><a class=" <?= ($activePage == 'blog') ? 'active':''; ?> " href="?page=blog">Blog</a></li>
+          <li><a class=" <?= ($activePage == 'contact') ? 'active':''; ?> " href="?page=contact">Contact Us</a></li>
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
