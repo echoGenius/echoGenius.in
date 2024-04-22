@@ -14,7 +14,8 @@
 </section>
 <!-- End About Us Section -->
 
+
+<?php include 'sections/whyus.php'; ?>
 <?php include 'sections/aboutus.php'; ?>
 <?php include 'sections/facts.php'; ?>
-<?php include 'sections/skills.php'; ?>
-<?php include 'sections/testimonials.php'; ?>
+<?php include 'sections/servicedetails.php'; ?>

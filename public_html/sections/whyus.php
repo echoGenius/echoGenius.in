@@ -12,14 +12,20 @@
 
             <div class="icon-box">
               <div class="icon"><i class="bx bx-fingerprint"></i></div>
-              <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-              <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+              <h4 class="title"><a href="">Who We Are:</a></h4>
+              <p class="description">
+                    <a style="color: #7ac2ff;"><b>echoGenius</b></a> Technologies transcends traditional corporate identity. More than a 
+                  company, we are the echo of innovation and the essence of technology. Dedicated to 
+                  shaping a future where echoes of progress resound through education, industries 
+                  flourish, and connectivity knows no bounds.</p>
             </div>
 
             <div class="icon-box">
-              <div class="icon"><i class="bx bx-gift"></i></div>
-              <h4 class="title"><a href="">Nemo Enim</a></h4>
-              <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+              <div class="icon"><i class="bx bx-trip"></i></div>
+              <h4 class="title"><a href="">Our Visionary Approach:</a></h4>
+                    <p class="description">Join us in crafting a world where brilliance resonates, and knowledge echoes 
+                  endlessly. Our visionary approach is rooted in a commitment to pushing boundaries 
+                  and making a lasting impact on education, industry, and connectivity. </p>
             </div>
 
           </div>

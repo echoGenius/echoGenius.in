@@ -9,8 +9,8 @@
                 <img src="assets/img/service-details-1.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="#">Our Mission</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat</p>
+                <h5 class="card-title"><a href="#">Our Plan</a></h5>
+                <p class="card-text">To achieve our mission, we have meticulously crafted a comprehensive plan that focuses on three key pillars</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -21,8 +21,8 @@
                 <img src="assets/img/service-details-2.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="#">Our Plan</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo</p>
+                <h5 class="card-title"><a href="#">Advancing Digital Literacy</a></h5>
+                <p class="card-text">Tailored laptops for students at every level, from high school to university, ensuring access to cutting-edge technology for all</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -34,8 +34,8 @@
                 <img src="assets/img/service-details-3.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="#">Our Vision</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet</p>
+                <h5 class="card-title"><a href="#">Revolutionizing Learning Spaces</a></h5>
+                <p class="card-text">Providing Education as a Service (EaaS) for distance learning. Offering immersive learning experiences with VR/AR headsets in Biology, Chemistry, and Physics</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
@@ -46,8 +46,35 @@
                 <img src="assets/img/service-details-4.jpg" alt="...">
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="#">Our Care</a></h5>
-                <p class="card-text">Nostrum eum sed et autem dolorum perspiciatis. Magni porro quisquam laudantium voluptatem. In molestiae earum ab sit esse voluptatem. Eos ipsam cumque ipsum officiis qui nihil aut incidunt aut</p>
+                <h5 class="card-title"><a href="#">Innovative Industrial Solutions</a></h5>
+                <p class="card-text">Developing comprehensive All-in-One IPC Boards & End Products for industrial applications</p>
+                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-4.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Empowering Seamless Connectivity</a></h5>
+                <p class="card-text">Deploying Indoor & Outdoor WiFi6 Access Points. Introducing 5G CPE (Customer Premises Equipment) and 5G Small Cells for enhanced connectivity</p>
+                <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 d-flex align-items-stretch" data-aos="fade-up">
+            <div class="card">
+              <div class="card-img">
+                <img src="assets/img/service-details-4.jpg" alt="...">
+              </div>
+              <div class="card-body">
+                <h5 class="card-title"><a href="#">Our Goal</a></h5>
+                <p class="card-text">EchoGenius Technologies strives to transcend 
+                  conventional corporate identity. Our goal is to create a world where the echoes of progress 
+                  reverberate through education, industries thrive, and connectivity knows no bounds. Join us in 
+                  building a future where brilliance resonates and knowledge echoes endlessly</p>
                 <div class="read-more"><a href="#"><i class="bi bi-arrow-right"></i> Read More</a></div>
               </div>
             </div>
