@@ -25,19 +25,19 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=home">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="?page=tos">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="?page=pp">Privacy policy</a></li>
+              <!--li><i class="bx bx-chevron-right"></i> <a href="?page=tos">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="?page=pp">Privacy policy</a></li-->
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4> </h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
+              <li><!--i class="bx bx-chevron-right"></i> <a href="#"> </a--></li>
+              <li><!--i class="bx bx-chevron-right"></i> <a href="#"> </a--></li>
+              <li><!--i class="bx bx-chevron-right"></i> <a href="#"> </a--></li>
+              <li><!--i class="bx bx-chevron-right"></i> <a href="#"> </a--></li>
+              <li><!--i class="bx bx-chevron-right"></i> <a href="#"> </a--></li>
             </ul>
           </div>
 

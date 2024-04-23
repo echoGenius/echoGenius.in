@@ -5,7 +5,6 @@
         <h2>Welcome to <a style="color: #7ac2ff;">echoGenius</a></h2>
           <h2>Igniting <a style="color: #7ac2ff;">Innovation</a> and <a style="color: #7ac2ff;">Connectivity</a>!</h2>
           <p>Uncover a future where the echoes of progress resound, education transforms, and technology paves the path. EchoGenius Technologies is not just a company; we embody the resonance of groundbreaking ideas and the brilliance of technology.</p>
-          <a href="" class="btn-get-started ">Read More</a>
         </div>
       </div>
     </div>
