@@ -25,44 +25,43 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=home">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="?page=services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=tos">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=pp">Privacy policy</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Our Services</h4>
+            <h4> </h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#"> </a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              A108 Adam Street <br>
-              New York, NY 535022<br>
-              United States <br><br>
-              <strong>Phone:</strong> +1 5589 55488 55<br>
-              <strong>Email:</strong> info@example.com<br>
+              b13, 4th Floor <br>
+              Sector 2 Noida, U.P 201201<br>
+              India <br><br>
+              <strong>Phone:</strong> +91 9810065144<br>
+              <strong>Email:</strong> info@echogenius.in<br>
             </p>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>About Moderna</h3>
-            <p>Cras fermentum odio eu feugiat lide par naso tierra. Justo eget nada terra videa magna derita valies darta donna mare fermentum iaculis eu non diam phasellus.</p>
-            <div class="social-links mt-3">
+            <h3>About echoGenius</h3>
+            <p>Uncover a future where the echoes of progress resound, education transforms, and technology paves the path. echoGenius Technologies is not just a company; we embody the resonance of groundbreaking ideas and the brilliance of technology.</p>
+            <!--div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
               <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
               <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
               <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-            </div>
+            </div-->
           </div>
 
         </div>
