@@ -25,6 +25,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=home">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="?page=contact">Contact us</a></li>
               <!--li><i class="bx bx-chevron-right"></i> <a href="?page=tos">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="?page=pp">Privacy policy</a></li-->
             </ul>
@@ -44,17 +45,19 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              b13, 4th Floor <br>
+              EchoGenius Technologies Pvt Ltd<br>
+              B13, 4th Floor <br>
               Sector 2 Noida, U.P 201201<br>
-              India <br><br>
+              India <br>
               <strong>Phone:</strong> +91 9810065144<br>
+              <strong>Office:</strong> 0120-4226661<br>
               <strong>Email:</strong> info@echogenius.in<br>
             </p>
 
           </div>
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <h3>About echoGenius</h3>
+            <h3>About <br>EchoGenius Technologies Pvt Ltd</h3>
             <p>Uncover a future where the echoes of progress resound, education transforms, and technology paves the path. echoGenius Technologies is not just a company; we embody the resonance of groundbreaking ideas and the brilliance of technology.</p>
             <!--div class="social-links mt-3">
               <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>

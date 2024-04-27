@@ -3,8 +3,8 @@
       <div class="row justify-content-center">
         <div class="col-xl-8">
         <h2>Welcome to <a style="color: #7ac2ff;">echoGenius</a></h2>
-          <h2>Igniting <a style="color: #7ac2ff;">Innovation</a> and <a style="color: #7ac2ff;">Connectivity</a>!</h2>
-          <p>Uncover a future where the echoes of progress resound, education transforms, and technology paves the path. EchoGenius Technologies is not just a company; we embody the resonance of groundbreaking ideas and the brilliance of technology.</p>
+          <h2>Creating a Digital <a style="color: #7ac2ff;">Revolution</a> for <br>Rural <a style="color: #7ac2ff;">Education</a>!</h2>
+          <p>Step into a future resonating with progress, where education undergoes a transformative evolution guided by technology. At <a style="color: #7ac2ff;">echoGenius</a>, we're more than just a company; we epitomize innovation and technological brilliance, shaping a landscape where groundbreaking ideas flourish and the echoes of progress reverberate throughout the education sector</p>
         </div>
       </div>
     </div>

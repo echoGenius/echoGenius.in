@@ -16,6 +16,3 @@
 
 
 <?php include 'sections/whyus.php'; ?>
-<?php include 'sections/aboutus.php'; ?>
-<?php include 'sections/facts.php'; ?>
-<?php include 'sections/servicedetails.php'; ?>
