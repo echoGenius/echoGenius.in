@@ -32,5 +32,10 @@ $subscribe->smtp = array(
 
 $subscribe->add_message($_POST['email'], 'Email');
 
-echo $subscribe->send();
+// Try sending the email
+if ($subscribe->send()) {
+    echo 'Email sent successfully!';
+} else {
+    echo 'Error: Unable to send email.';
+}
 ?>
