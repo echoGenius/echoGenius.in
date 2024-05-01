@@ -501,6 +501,7 @@ h6,
   right: 0;
   bottom: 0;
   background: linear-gradient(to right, rgba(1, 10, 14, 0.2), rgba(2, 12, 17, 0.1)), url("../img/hero-bg.jpg") center top no-repeat;
+  background-size: cover;
 }
 
 #hero-no-slider h2 {
