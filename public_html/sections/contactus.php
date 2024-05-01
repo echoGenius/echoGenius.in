@@ -11,21 +11,24 @@
                 <div class="info-box">
                   <i class="bx bx-map"></i>
                   <h3>Our Address</h3>
-                  <p>A4 Professor's Colony, Bhopal, M.P 462003</p>
+                  <p>EchoGenius Technologies Private Limited<br>
+                      B13, 4th Floor<br>
+                      Sector 2 Noida, U.P<br>
+                      201301</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@echogenius.in<br>directors@echogenius.in</p>
+                  <p>info@echogenius.in</p>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="info-box">
                   <i class="bx bx-phone-call"></i>
                   <h3>Call Us</h3>
-                  <p>+91-9049828838<br>+91-9999999999</p>
+                  <p>+91-9810065144<br>+91-9049828838</p>
                 </div>
               </div>
             </div>
@@ -65,6 +68,6 @@
     <!-- ======= Map Section ======= -->
 <section class="map mt-2">
     <div class="container-fluid p-0">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14663.920126143239!2d77.4013273!3d23.2438137!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x397c436eb4d8b581%3A0x4112e51d0a9b56c9!2sSakhlecha%20House!5e0!3m2!1sen!2sin!4v1707322675818!5m2!1sen!2sin" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14013.9134225768!2d77.31368!3d28.585423!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce5c6ac7dfcf1%3A0xc7ae62323fbe1c0e!2sEchoGenius%20Technologies%20Private%20Limited%20-%20Smart%20Digital%20Classroom%20Solutions%20-!5e0!3m2!1sen!2sin!4v1714547124554!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 </section><!-- End Map Section -->

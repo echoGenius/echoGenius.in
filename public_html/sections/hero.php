@@ -3,7 +3,7 @@
       <div class="row justify-content-center">
         <div class="col-xl-8">
         <h2>Welcome to <a style="color: #7ac2ff;">echoGenius</a></h2>
-          <h2>Creating a Digital <a style="color: #7ac2ff;">Revolution</a> for <br>Rural <a style="color: #7ac2ff;">Education</a>!</h2>
+          <h3 style="color: #fff;">Creating a Digital <a style="color: #7ac2ff;">Revolution</a> for <br>Rural <a style="color: #7ac2ff;">Education</a>!</h3>
           <p>Step into a future resonating with progress, where education undergoes a transformative evolution guided by technology. At <a style="color: #7ac2ff;">echoGenius</a>, we're more than just a company; we epitomize innovation and technological brilliance, shaping a landscape where groundbreaking ideas flourish and the echoes of progress reverberate throughout the education sector</p>
         </div>
       </div>
