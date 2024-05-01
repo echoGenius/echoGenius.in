@@ -8,7 +8,7 @@
             <p>Subscribe to our news letter to get the latest <b>updates</b>!!!</p>
           </div>
           <div class="col-lg-6">
-            <form action="" method="post">
+            <form action="forms/subscribe.php" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
           </div>
