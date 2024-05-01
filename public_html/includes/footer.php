@@ -9,7 +9,7 @@
           </div>
           <div class="col-lg-6">
             <form action="forms/subscribe.php" method="post" role="form" class="php-email-form">
-              <input type="email" name="email"><input type="submit" value="Subscribe">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required> <input type="submit" value="Subscribe">
             </form>
           </div>
         </div>
