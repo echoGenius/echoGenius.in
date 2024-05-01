@@ -1,19 +1,7 @@
 <footer id="footer" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
 
     <div class="footer-newsletter">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6">
-            <h4>Our Newsletter</h4>
-            <p>Subscribe to our news letter to get the latest <b>updates</b>!!!</p>
-          </div>
-          <div class="col-lg-6">
-            <form action="forms/subscribe.php" method="post" role="form" class="php-email-form">
-            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required> <input type="submit" value="Subscribe">
-            </form>
-          </div>
-        </div>
-      </div>
+      
     </div>
 
     <div class="footer-top">

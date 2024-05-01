@@ -47,7 +47,7 @@
           <div class="col-md-7 pt-5 order-2 order-md-1 mx-auto text-center">
             <h3><a style="color: #7ac2ff;"><b>echoGenius</b></a>: Driving Education Tech Transformation</h3>
             <p>
-            <a style="color: #7ac2ff;"><b>echoGenius</b></a> Technologies Private Limited leads the charge in revolutionizing education technology. Through innovative, state-of-the-art products, we spearhead digital transformation in the sector, empowering educators and learners alike. With a focus on cutting-edge solutions, we pave the way for a dynamic educational landscape that harnesses the power of technology to drive meaningful change.
+            <a style="color: #7ac2ff;"><b>echoGenius</b></a> Technologies Pvt Ltd is poised to redefine the landscape of education by introducing a range of cutting-edge digital devices. From state-of-the-art K12 laptops to immersive VR headsets, our products are engineered to deliver world-class content seamlessly. Our commitment to affordability does not compromise on quality, ensuring that learners have access to premium educational tools. By offering all-in-one desktop solutions and interactive whiteboards, we facilitate engaging learning experiences in modern classrooms. EchoGenius is not just a local player; we align with the Digital India initiative and forge global partnerships to address the growing demand for digital literacy worldwide. Join us in revolutionizing education and empowering learners with the tools they need to thrive in the digital age.
             </p>
           </div>
         </div>
