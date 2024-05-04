@@ -23,7 +23,8 @@
                   BT (British Telecom) India, Intel India and also Reliance Communications Ltd & Telecom Operators Association of India & CDOT (Centre for Dev of Telematics). Mr. Rao has also 
                   been awarded Indian Telecom Person of the Year for the year 2012. Mr. Rao is also a Member of HLF (High-Level Forum) of Govt. of India for Dept. of Telecommunication & MEITY.  
                   Mr. Rao has been a recipient of Global Corporate awards & also from the President of India for innovations and R&D of an indigenous Defence communication computing product 
-                  as import substitution. Mr. Rao in his leadership roles contributed to a total turnover of US$ 3 B in Telecom NW Infra & IT System domains.</p>
+                  as import substitution. Mr. Rao in his leadership roles contributed to a total turnover of US$ 3 B in Telecom NW Infra & IT System domains.
+                </p>
               </div>
             </div>
           </div>
@@ -42,11 +43,12 @@
               <div class="member-info">
                 <h4>Rishabh Sakhlecha</h4>
                 <span>Director</span>
-                <p>Rishabh Sakhlecha is a visionary entrepreneur and the Director of Om ElectroPlast & Chemicals Pvt. Ltd. His primary focus revolves around implementing cutting-edge technologies 
-                  for Urban Development. Drawing from his MBA degree from the University of Nottingham and extensive experience in the Energy Sector, Rishabh has established himself as a pioneer 
-                  in integrating technology-driven solutions into various industries. His journey reflects a fusion of academic excellence and practical expertise, culminating in the establishment 
-                  of innovative ventures across India. Rishabh's strategic approach, coupled with his commitment to leveraging new technologies, positions him as a driving force in shaping the 
-                  landscape of urban development and beyond.</p>
+                <p>Rishabh Sakhlecha, a forward-thinking entrepreneur, serves as the Director of Om ElectroPlast & Chemicals Pvt. Ltd. His main focus centers on deploying 
+                  state-of-the-art technologies for Urban Development. Armed with an MBA from the University of Nottingham and extensive experience in the Energy Sector, 
+                  Rishabh has emerged as a trailblazer in integrating tech-driven solutions across diverse industries. His journey embodies a synergy of academic prowess 
+                  and hands-on experience, resulting in the creation of groundbreaking ventures nationwide. Rishabh's strategic mindset, coupled with his dedication to 
+                  harnessing emerging technologies, positions him as a driving force in shaping the landscape of urban development and beyond.
+                </p>
               </div>
             </div>
           </div>
@@ -70,7 +72,8 @@
                   demonstrating a commitment to tech-driven practical solutions. Beyond entrepreneurship, Pratyush serves as a partner in MegaDrop and holds a Director position in 
                   Reverie Infrastructure, showcasing versatility across e-commerce and real estate. As a true technocrat, Pratyush possesses a profound understanding of global 
                   state-of-the-art technologies. Their journey reflects a blend of technical expertise, an entrepreneurial spirit, and a commitment to driving innovation in various domains. 
-                  Pratyush thrives on discussing and exploring the latest advancements in the tech landscape, combining practical experience with an insatiable curiosity for cutting-edge developments.</p>
+                  Pratyush thrives on discussing and exploring the latest advancements in the tech landscape, combining practical experience with an insatiable curiosity for cutting-edge developments.
+                </p>
               </div>
             </div>
           </div>

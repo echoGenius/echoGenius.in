@@ -21,7 +21,7 @@
                 <div class="info-box">
                   <i class="bx bx-envelope"></i>
                   <h3>Email Us</h3>
-                  <p>info@echogenius.in</p>
+                  <p><br>info@echogenius.in<br></p>
                 </div>
               </div>
               <div class="col-md-6">
@@ -46,10 +46,10 @@
                 </div>
               </div>
               <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required><br>
               </div>
               <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+                <textarea class="form-control" name="message" rows="9" placeholder="Message" required></textarea>
               </div>
               <div class="my-3">
                 <div class="loading">Loading</div>

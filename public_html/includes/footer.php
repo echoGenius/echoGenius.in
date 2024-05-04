@@ -35,7 +35,7 @@
             <p>
               EchoGenius Technologies Pvt Ltd<br>
               B13, 4th Floor <br>
-              Sector 2 Noida, U.P 201201<br>
+              Sector 2 Noida, U.P 201301<br>
               India <br>
               <strong>Phone:</strong> +91 9810065144<br>
               <strong>Office:</strong> 0120-4226661<br>

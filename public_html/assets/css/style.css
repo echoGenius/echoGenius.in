@@ -896,6 +896,7 @@ section {
 .features h3 {
   font-weight: 400;
   font-size: 24px;
+  color: #041635;
 }
 
 .features ul {
@@ -1464,6 +1465,7 @@ section {
   font-weight: 700;
   margin: 15px 0 5px 0;
   font-size: 18px;
+  color: #041635;
 }
 
 .team .member .member-info span {
