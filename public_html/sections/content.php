@@ -40,8 +40,8 @@
             <p>
                             Digital transformation encompasses the spectrum of Computing products- <br>
                             <ul>
-              <li><i class="bi bi-check"></i> <a style="color: #7ac2ff;"><b>K12</b></a> Grade Laptops, High end Laptops and AIO Desktops</li>
-              <li><i class="bi bi-check"></i> <a style="color: #7ac2ff;"><b>IWB</b></a> Based Digital classroom solutions</li>
+              <li><i class="bi bi-check"></i> <a style="color: #7ac2ff;"><b>K12</b></a> Grade Laptops, High-end Laptops and AIO Desktops</li>
+              <li><i class="bi bi-check"></i> <a style="color: #7ac2ff;"><b>IWB</b></a> Based Digital Classroom Solutions</li>
               <li><i class="bi bi-check"></i> Immersive learning with <a style="color: #7ac2ff;"><b>VR</b></a> Headsets</li>
             </ul>
             </p>
@@ -57,7 +57,7 @@
             <p>
             At <a style="color: #7ac2ff;"><b>echoGenius</b></a> Technologies Pvt Ltd, we're not just changing the game – we're redefining it. 
             Our suite of cutting-edge digital devices is at the forefront of a revolution in education 
-            technology. From state-of-the-art K12 laptops to immersive VR headsets, our products seamlessly 
+            technology. From state-of-the-art <a style="color: #7ac2ff;"><b>K12</b></a> laptops to immersive <a style="color: #7ac2ff;"><b>VR</b></a> headsets, our products seamlessly 
             deliver top-tier content, setting a new standard in educational excellence.
             </p>
             <p>
@@ -77,11 +77,10 @@
 
         <div class="row" data-aos="fade-up" style="background-color: #e6e6e6;">
           <div class="col-md-7 pt-5 order-2 order-md-1 mx-auto text-center">
-            <h3><a style="color: #7ac2ff;"><b>echoGenius</b></a>: Driving Education Tech Transformation</h3>
+            <h3><a style="color: #7ac2ff;"><b>echoGenius</b></a>: Driving Education Technology Transformation</h3>
             <p>
-            Join <a style="color: #7ac2ff;"><b>echoGenius</b></a> in the journey to revolutionize education. 
-            Together, let's empower learners to excel in the digital age and beyond.Join us in the journey to 
-            revolutionize education. Together, let's empower learners to excel in the digital age and beyond.<br><br><br>
+            Join <a style="color: #7ac2ff;"><b>echoGenius</b></a> in the journey to revolutionize education.<br>
+            Together, let's <a style="color: #7ac2ff;"><b>empower</b></a> learners to excel in the digital age and beyond.<br><br><br>
             </p>
           </div>
         </div>
